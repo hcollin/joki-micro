@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hcollin/joki-micro/issues"
   },
-  "homepage": "https://github.com/hcollin/joki-micro#readme"
+  "homepage": "https://github.com/hcollin/joki-micro#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
