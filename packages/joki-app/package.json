@@ -1,0 +1,30 @@
+{
+  "name": "joki-app",
+  "version": "0.0.0",
+  "description": "Joki Microfrontend Application",
+  "keywords": [
+    "joki",
+    "microfrontend"
+  ],
+  "author": "Henrik Collin <henrik.collin@cinia.fi>",
+  "homepage": "https://github.com/hcollin/joki-micro/tree/master/packages/joki-app#readme",
+  "license": "MIT",
+  "main": "lib/joki-app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcollin/joki-micro.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/hcollin/joki-micro/issues"
+  }
+}
